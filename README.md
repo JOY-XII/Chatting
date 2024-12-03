@@ -30,6 +30,7 @@ This repository contains a Python-based chat server and client implementation, w
    python main.py
    ```
 # PREVIEW 
+![Screenshot of the Script](Picsart_24-12-04_03-35-00-760.jpg)
 
    
    
